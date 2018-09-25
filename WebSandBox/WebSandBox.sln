@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSandBox", "WebSandBox\WebSandBox.csproj", "{8C8E2946-D000-4BF7-9250-5735F14B9A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSandBox.Tests", "WebSandBox.Tests\WebSandBox.Tests.csproj", "{07EC1BE8-0C11-4A8F-853B-916FFE99EE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8E2946-D000-4BF7-9250-5735F14B9A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8E2946-D000-4BF7-9250-5735F14B9A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8E2946-D000-4BF7-9250-5735F14B9A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8E2946-D000-4BF7-9250-5735F14B9A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EC1BE8-0C11-4A8F-853B-916FFE99EE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EC1BE8-0C11-4A8F-853B-916FFE99EE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EC1BE8-0C11-4A8F-853B-916FFE99EE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EC1BE8-0C11-4A8F-853B-916FFE99EE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A229FE0-5CEF-4579-80C1-DAE97171ACBD}
+	EndGlobalSection
+EndGlobal
